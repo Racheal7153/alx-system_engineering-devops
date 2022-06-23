@@ -1,3 +1,2 @@
-#!/bin/bash
-chown vincent:staff*
-chown -R vincent:staff*
+#1/bin/bash
+Chown -R vincent:staff*
